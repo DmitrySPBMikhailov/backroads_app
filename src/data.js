@@ -24,7 +24,7 @@ export const services = [
 
 export const tours = [
     {id: 1, img: img1, date: 'august 26th, 2020', title: 'Tibet Adventure', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.', location: 'china', duration: '6 days', cost: '2100'},
-    {id: 2, img: img2, date: 'october 1th, 2020', title: 'best of java', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.', location: 'indonesia', duration: '11 days', cost: '1400'},
+    {id: 2, img: img2, date: 'october 1th, 2020', title: 'best of Indonesia', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.', location: 'indonesia', duration: '11 days', cost: '1400'},
     {id: 3, img: img3, date: 'september 15th, 2020', title: 'explore hong kong', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.', location: 'hong kong', duration: '8 days', cost: '5000'},
     {id: 4, img: img4, date: 'december 5th, 2019', title: 'kenya highlights', text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.', location: 'kenya', duration: '20 days', cost: '3300'}
 ]
